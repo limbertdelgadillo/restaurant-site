@@ -22,9 +22,8 @@ h2 {
 a, p, li {
     font-family: Times;
     font-size: 16x;
-    margin-left: 40%;
 }
 body {
     background-color: lightgrey;
-    text-align: center;
+    margin-left: 700px;
 }
