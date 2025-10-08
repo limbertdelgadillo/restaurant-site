@@ -1,10 +1,31 @@
-p {
-    color: green;
+img {
+    height: 250px;
+    border: 2px solid black;
+}
+h1 {
+    color: red;
     text-decoration: underline;
 }
-li {
-    color: indigo;
-}
 a {
-    color: red;
+    color: blue;
+    font-weight: bold;
+}
+p {
+    font-weight: bold;
+}
+h1, h2{
+  font-family: sans-serif;;
+}
+a, p, li {
+  font-family: Times;
+    font-size: 15px;
+}
+body {
+    background-color: lightgrey;
+    text-align: center;
+}
+li {
+    text-align: left;
+    margin-left: 28%;
+    margin-right: 28%;
 }
