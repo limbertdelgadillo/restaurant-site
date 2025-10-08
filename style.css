@@ -20,3 +20,12 @@ a, p, li {
   font-family: Times;
     font-size: 15px;
 }
+body {
+    background-color: lightgrey;
+    text-align: center;
+}
+li {
+    text-align: left;
+    margin-left: 28%;
+    margin-right: 28%;
+}
