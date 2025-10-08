@@ -1,6 +1,6 @@
 img {
-    height: 250px;
-    border: 2px solid black;
+     height: 250px;
+     border: 2px solid black;
 }
 h1 {
     color: red;
@@ -14,18 +14,18 @@ p {
     font-weight: bold;
 }
 h1, h2{
-  font-family: sans-serif;;
+    font-family: sans-serif;
+}
+h2 {
+    
 }
 a, p, li {
-  font-family: Times;
-    font-size: 15px;
+    font-family: Times;
+    font-size: 16x;
+    margin-left: 35%;
+    margin-right: 37%;
 }
 body {
     background-color: lightgrey;
     text-align: center;
-}
-li {
-    text-align: left;
-    margin-left: 28%;
-    margin-right: 28%;
 }
